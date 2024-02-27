@@ -16,10 +16,7 @@ public:
     vector<token> tokens;
 
     void parse_file(string& file_name);
-    void parse_line(string& line);
-    void tokenize(string& statement);
-
-    const static string keywords[];
+    void print_tokens();
 };
 
 

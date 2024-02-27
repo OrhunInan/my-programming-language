@@ -61,6 +61,12 @@ build CMakeFiles/my_programming_language.dir/lexer/lexer.cpp.obj: CXX_COMPILER__
   OBJECT_DIR = CMakeFiles\my_programming_language.dir
   OBJECT_FILE_DIR = CMakeFiles\my_programming_language.dir\lexer
 
+build CMakeFiles/my_programming_language.dir/lexer/token.cpp.obj: CXX_COMPILER__my_programming_language_unscanned_Debug C$:/Users/orhun/CLionProjects/my-programming-language/lexer/token.cpp || cmake_object_order_depends_target_my_programming_language
+  DEP_FILE = CMakeFiles\my_programming_language.dir\lexer\token.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\my_programming_language.dir
+  OBJECT_FILE_DIR = CMakeFiles\my_programming_language.dir\lexer
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target my_programming_language
@@ -69,7 +75,7 @@ build CMakeFiles/my_programming_language.dir/lexer/lexer.cpp.obj: CXX_COMPILER__
 #############################################
 # Link the executable my_programming_language.exe
 
-build my_programming_language.exe: CXX_EXECUTABLE_LINKER__my_programming_language_Debug CMakeFiles/my_programming_language.dir/main.cpp.obj CMakeFiles/my_programming_language.dir/lexer/lexer.cpp.obj
+build my_programming_language.exe: CXX_EXECUTABLE_LINKER__my_programming_language_Debug CMakeFiles/my_programming_language.dir/main.cpp.obj CMakeFiles/my_programming_language.dir/lexer/lexer.cpp.obj CMakeFiles/my_programming_language.dir/lexer/token.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\my_programming_language.dir

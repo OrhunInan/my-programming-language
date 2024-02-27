@@ -6,4 +6,6 @@ set(CMAKE_CXX_STANDARD 17)
 add_executable(my_programming_language main.cpp
         lexer/lexer.cpp
         lexer/lexer.h
-        lexer/token.h)
+        lexer/token.cpp
+        lexer/token.h
+)

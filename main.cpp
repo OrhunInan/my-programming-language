@@ -7,6 +7,7 @@ int main() {
 
     lexer test_lexer{};
     test_lexer.parse_file(file_path);
+    test_lexer.print_tokens();
 
     return 0;
 }
