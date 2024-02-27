@@ -1,0 +1,9 @@
+# ninja log v5
+2	314	7307012389824917	build.ninja	19ec66dad7231283
+4	575	7307012396478144	CMakeFiles/my_programming_language.dir/main.cpp.obj	914faea6e44b1d1c
+1	589	7307012396618172	CMakeFiles/my_programming_language.dir/lexer/lexer.cpp.obj	ca014f85406c16b3
+590	820	7307012398892206	my_programming_language.exe	2bd17f17a0d3d1de
+3	491	7307013355997619	CMakeFiles/my_programming_language.dir/lexer/lexer.cpp.obj	ca014f85406c16b3
+491	588	7307013356943407	my_programming_language.exe	2bd17f17a0d3d1de
+3	493	7307014952475638	CMakeFiles/my_programming_language.dir/lexer/lexer.cpp.obj	ca014f85406c16b3
+494	596	7307014953475862	my_programming_language.exe	2bd17f17a0d3d1de

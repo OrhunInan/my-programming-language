@@ -1,0 +1,3 @@
+C:/Users/orhun/CLionProjects/my-programming-language/cmake-build-debug/CMakeFiles/my_programming_language.dir
+C:/Users/orhun/CLionProjects/my-programming-language/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/orhun/CLionProjects/my-programming-language/cmake-build-debug/CMakeFiles/rebuild_cache.dir
