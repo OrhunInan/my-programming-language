@@ -8,4 +8,8 @@ add_executable(my_programming_language main.cpp
         lexer/lexer.h
         lexer/token.cpp
         lexer/token.h
+        statement/statement.cpp
+        statement/statement.h
+        statement/program.cpp
+        statement/program.h
 )
